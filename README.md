@@ -1,11 +1,12 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Косяк Никита, 12 группа
+Ведется работа над 3й лаб. рабораторной по ТПМИМП
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Еще нечего юзать 💀
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Строим
